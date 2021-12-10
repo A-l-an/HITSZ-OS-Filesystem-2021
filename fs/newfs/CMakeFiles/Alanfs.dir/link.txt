@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -no-pie  -rdynamic CMakeFiles/Alanfs.dir/src/Alanfs.c.o CMakeFiles/Alanfs.dir/src/Alanfs_devug.c.o CMakeFiles/Alanfs.dir/src/Alanfs_utils.c.o  -o Alanfs  -lfuse /home/guests/190110115/lib/libddriver.a 

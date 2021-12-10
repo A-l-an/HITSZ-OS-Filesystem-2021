@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-9  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g  -rdynamic CMakeFiles/Alanfs.dir/src/Alanfs.c.o  -o Alanfs  -lfuse /home/guests/190110115/lib/libddriver.a 

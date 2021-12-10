@@ -1,0 +1,3 @@
+/home/guests/190110115/user-land-filesystem/fs/newfs/CMakeFiles/rebuild_cache.dir
+/home/guests/190110115/user-land-filesystem/fs/newfs/CMakeFiles/edit_cache.dir
+/home/guests/190110115/user-land-filesystem/fs/newfs/CMakeFiles/Alanfs.dir

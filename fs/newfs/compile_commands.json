@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/guests/190110115/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190110115/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/Alanfs.dir/src/Alanfs.c.o   -c /home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs.c",
+  "file": "/home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs.c"
+},
+{
+  "directory": "/home/guests/190110115/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190110115/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/Alanfs.dir/src/Alanfs_devug.c.o   -c /home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs_devug.c",
+  "file": "/home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs_devug.c"
+},
+{
+  "directory": "/home/guests/190110115/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190110115/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/Alanfs.dir/src/Alanfs_utils.c.o   -c /home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs_utils.c",
+  "file": "/home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs_utils.c"
+}
+]

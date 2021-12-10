@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/guests/190110115/user-land-filesystem/fs/newfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110115/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/Alanfs.dir/src/Alanfs.c.o   -c /home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs.c",
+  "file": "/home/guests/190110115/user-land-filesystem/fs/newfs/src/Alanfs.c"
+}
+]
